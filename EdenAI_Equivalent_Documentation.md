@@ -1,16 +1,3 @@
-
-# Eden AI–Equivalent Product — Documentation Pack
-**Last updated:** 2025-10-27
-
-This document packages the plan we discussed — what to build, how to build it, and how long it takes — in a format your team can scan quickly, discuss, and import into tools like **Notion** or **Confluence**.
-
-> **How to use this pack**
-> 1. Import this `.md` file into Notion or Confluence (or paste the content).
-> 2. Upload the `CSV` files as tables or import them into Sheets/Excel for tracking.
-> 3. (Optional) Attach the Gantt image to your page, or recreate it with your PM tool.
-
----
-
 ## 1) Goals & Non‑Goals
 
 **Goals**
@@ -116,18 +103,6 @@ See **Risk Register** (CSV). Top items:
 - Minimum list of day‑1 providers per feature?
 - Pricing model (vendor rate only vs. platform margin)?
 - Data residency requirements by customer segment?
-
----
-
-## 9) How to import this document
-
-- **Notion**: Create a page → “Import” → **Text & Markdown** → upload this `.md` file. Then add the CSVs as tables or databases.
-- **Confluence**: Create a page → paste Markdown content (Confluence Cloud converts most Markdown) → attach CSVs and insert as tables.
-
----
-
-## 10) Changelog
-- {today_str}: Initial draft generated for team review.
 
 ---
 
